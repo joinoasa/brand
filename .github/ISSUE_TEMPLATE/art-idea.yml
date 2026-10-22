@@ -1,0 +1,38 @@
+name: Art idea
+description: Suggest a logo, icon, patch, banner or other brand idea.
+labels: [idea]
+body:
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What kind of art?
+      options:
+        - Logo or mark
+        - Icon
+        - Patch
+        - Banner or illustration
+        - Colors or fonts
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: Your idea
+      description: Describe it, and drag in a sketch or image if you have one.
+    validations:
+      required: true
+  - type: input
+    id: use
+    attributes:
+      label: Where would it be used?
+      placeholder: Website, Discord, a project, stickers...
+  - type: checkboxes
+    id: rules
+    attributes:
+      label: Checks
+      options:
+        - label: It's my own work (or open-licensed, and I've said where it's from).
+          required: true
+        - label: It shows no weapons.
+          required: true

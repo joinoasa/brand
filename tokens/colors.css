@@ -1,0 +1,11 @@
+/* OASA brand colors (concept v1). Copy into your stylesheet. */
+:root {
+  --oasa-deep-navy: #0b253a;
+  --oasa-steel-blue: #253a66;
+  --oasa-signal-gold: #e3a32c;
+  --oasa-mesh-teal: #2f968a;
+  --oasa-aluminum: #e5e8ed;
+
+  --oasa-font-heading: 'Sora', system-ui, sans-serif;
+  --oasa-font-body: 'Inter', system-ui, sans-serif;
+}

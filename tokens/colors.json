@@ -1,0 +1,14 @@
+{
+  "version": "concept-v1",
+  "colors": {
+    "deep-navy": "#0B253A",
+    "steel-blue": "#253A66",
+    "signal-gold": "#E3A32C",
+    "mesh-teal": "#2F968A",
+    "aluminum": "#E5E8ED"
+  },
+  "fonts": {
+    "heading": "Sora",
+    "body": "Inter"
+  }
+}
