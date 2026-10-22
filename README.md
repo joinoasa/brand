@@ -18,6 +18,7 @@ Logos, colors, icons, patches and art for the [Open Autonomous Systems Alliance]
 | [`patches/`](patches/) | Mission-style patches for projects | Satellite, Flight, Robotics, Clean Oceans, Mesh | Concept |
 | [`banners/`](banners/) | Wide art for the website, Discord and social headers | All-domains hero | Concept |
 | [`tokens/`](tokens/) | Colors as code, for the website and apps | `colors.css`, `colors.json` | Concept |
+| [`documents/`](documents/) | Branded documents (Word, PDF) and their text | Core values one-pager, manifesto | Draft |
 
 ## Quick reference
 
