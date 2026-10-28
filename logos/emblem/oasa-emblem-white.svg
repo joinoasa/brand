@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t">
+  <title id="t">OASA emblem (one color, white)</title>
+  <defs>
+    <clipPath id="disc"><circle cx="256" cy="256" r="248"/></clipPath>
+    <clipPath id="summit"><path d="M10 268 L256 132 L256 352 C180 352 92 320 10 268 Z"/></clipPath>
+  </defs>
+  <g clip-path="url(#disc)">
+    <!-- deep navy field -->
+    <rect width="512" height="512" fill="#FFFFFF"/>
+    <!-- lower left: ocean -->
+    <path d="M0 268 L256 268 L256 512 L0 512 Z" fill="#FFFFFF"/>
+    <!-- lower right: night -->
+    <path d="M256 332 C332 318 424 290 512 284 L512 512 L256 512 Z" fill="#FFFFFF"/>
+    <!-- upper left: summit sky -->
+    <path d="M10 268 L256 132 L256 352 C180 352 92 320 10 268 Z" fill="#FFFFFF"/>
+    <!-- upper right: horizon teal -->
+    <path d="M256 132 L502 268 L512 284 C424 290 332 318 256 332 Z" fill="#FFFFFF"/>
+    <!-- mountains with snowcaps -->
+    <g clip-path="url(#summit)">
+      <path d="M52 306 L100 262 L118 276 L160 214 L186 248 L204 232 L234 268 L250 258 L262 270 L262 360 L52 360 Z" fill="#0B253A"/>
+      <path d="M52 330 L92 300 L104 312 L120 296 L134 314 L152 284 L162 300 L176 286 L196 304 L210 292 L226 310 L244 298 L262 314 L262 360 L52 360 Z" fill="#FFFFFF"/>
+    </g>
+    <!-- wave -->
+    <path d="M262 280 C304 246 352 220 404 220 C446 220 476 240 496 266 C466 252 432 250 402 260 C360 274 316 296 262 308 Z" fill="#0B253A"/>
+    <!-- night stars -->
+    <g fill="#0B253A">
+      <path d="M318 366 l5 14 l14 5 l-14 5 l-5 14 l-5 -14 l-14 -5 l14 -5 z"/>
+      <path d="M356 398 l6 17 l17 6 l-17 6 l-6 17 l-6 -17 l-17 -6 l17 -6 z"/>
+      <path d="M324 440 l4 12 l12 4 l-12 4 l-4 12 l-4 -12 l-12 -4 l12 -4 z"/>
+    </g>
+    <!-- white dividers -->
+    <g fill="none" stroke="#0B253A" stroke-width="10" stroke-linejoin="round" stroke-linecap="round">
+      <path d="M6 270 L256 132 L506 270"/>
+      <path d="M256 132 L256 520"/>
+      <path d="M10 268 C92 320 180 352 256 352"/>
+      <path d="M14 282 C72 396 152 480 256 510"/>
+      <path d="M498 282 C440 396 360 480 256 510"/>
+      <path d="M256 332 C332 318 424 290 506 284"/>
+    </g>
+  </g>
+  <!-- guiding star -->
+  <path d="M256 58 Q270 118 330 132 Q270 146 256 208 Q242 146 182 132 Q242 118 256 58 Z" fill="#0B253A" stroke="#0B253A" stroke-width="9" stroke-linejoin="round" paint-order="stroke"/>
+</svg>

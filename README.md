@@ -12,6 +12,7 @@ Logos, colors, icons, patches and art for the [Open Autonomous Systems Alliance]
 |---|---|---|---|
 | [`guide/`](guide/) | Brand guide: colors, fonts, look and feel | Brand guide v1 | Concept |
 | [`logos/wordmark/`](logos/wordmark/) | The OASA name as a logo | OASA wordmark | Concept |
+| [`logos/emblem/`](logos/emblem/) | The OASA emblem: star, summit, wave and night sky in one circle (avatars, app icons, badges, merch) | Option 7 emblem: full color, on dark, one color navy and white | Concept (chosen direction) |
 | [`logos/marks/`](logos/marks/) | Symbols that work without the name (icons, avatars) | Delta, Orbital and Network marks | Concept |
 | [`logos/seal/`](logos/seal/) | Round seal for formal use | OASA seal | Concept |
 | [`icons/domains/`](icons/domains/) | One icon per domain or tech tree branch | Space, Air, Land, Sea, Underwater | Concept |
