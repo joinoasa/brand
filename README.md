@@ -4,7 +4,7 @@ Logos, colors, icons, patches and art for the [Open Autonomous Systems Alliance]
 
 **Everything here is a concept for now.** Look around, borrow ideas, and add your own. Nothing is final until it's marked **Official** below.
 
-![OASA wordmark](logos/wordmark/oasa-wordmark.png)
+![OASA logo](logos/oasa-logo/png/oasa-logo-horizontal.png)
 
 ## What's here
 
@@ -12,6 +12,7 @@ Logos, colors, icons, patches and art for the [Open Autonomous Systems Alliance]
 |---|---|---|---|
 | [`guide/`](guide/) | Brand guide: colors, fonts, look and feel | Brand guide v1 | Concept |
 | [`logos/wordmark/`](logos/wordmark/) | The OASA name as a logo | OASA wordmark | Concept |
+| [`logos/oasa-logo/`](logos/oasa-logo/) | **The OASA logo:** mark, wordmark, vertical and horizontal lockups, app icon and avatar, in full color, on dark and one color | Design 6 (minimal), SVG and PNG | Concept (locked in by the founder, 2026-10-28) |
 | [`logos/marks/`](logos/marks/) | Symbols that work without the name (icons, avatars) | Delta, Orbital and Network marks | Concept |
 | [`logos/seal/`](logos/seal/) | Round seal for formal use | OASA seal | Concept |
 | [`icons/domains/`](icons/domains/) | One icon per domain or tech tree branch | Space, Air, Land, Sea, Underwater | Concept |
