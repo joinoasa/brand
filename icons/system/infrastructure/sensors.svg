@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="oasa-infrastructure-sensors-title">
+  <title id="oasa-infrastructure-sensors-title">OASA — Sensor and camera module</title>
+  <rect x="13" y="17" width="38" height="12" rx="3" fill="#0B253A" />
+  <rect x="10" y="31" width="44" height="23" rx="5" fill="#0B253A" />
+  <circle cx="32" cy="42" r="12" fill="#253A66" />
+  <circle cx="32" cy="42" r="8" fill="#2F968A" />
+  <circle cx="32" cy="42" r="3" fill="#0B253A" />
+  <circle cx="49" cy="36" r="3" fill="#E3A32C" />
+</svg>

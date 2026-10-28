@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="oasa-community-community-dark-title">
+  <title id="oasa-community-community-dark-title">OASA — Open community collaboration (for dark backgrounds)</title>
+  <circle cx="32" cy="18" r="10" fill="#E3A32C" />
+  <path d="M16 55V43q0-13 16-13t16 13v12z" fill="#E3A32C" />
+  <circle cx="12" cy="29" r="7" fill="#E5E8ED" />
+  <path d="M3 55V45q0-11 14-11" fill="#E5E8ED" />
+  <circle cx="52" cy="29" r="7" fill="#2F968A" />
+  <path d="M61 55V45q0-11-14-11" fill="#E5E8ED" />
+</svg>

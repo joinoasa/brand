@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="oasa-community-knowledge-white-title">
+  <title id="oasa-community-knowledge-white-title">OASA — Open knowledge and documentation</title>
+  <defs>
+    <mask id="oasa-community-knowledge-white-cut" maskUnits="userSpaceOnUse" x="0" y="0" width="64" height="64">
+      <rect width="64" height="64" fill="#000" />
+      <path d="M7 13q14-4 25 5 11-9 25-5v38q-13-4-25 6-12-10-25-6z" fill="#fff" />
+      <path d="M32 18v39" stroke="#000" stroke-width="3" fill="#000" />
+      <path d="M13 21q10-2 15 3m-15 7q10-2 15 3m8-10q5-5 15-3m-15 13q5-5 15-3" stroke="#000" stroke-width="2" fill="none" />
+      <path d="M12 46q11-2 20 6 9-8 20-6" stroke="#000" stroke-width="2" fill="none" />
+    </mask>
+  </defs>
+  <rect width="64" height="64" fill="#FFFFFF" mask="url(#oasa-community-knowledge-white-cut)" />
+</svg>

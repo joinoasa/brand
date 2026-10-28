@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="oasa-domains-underwater-dark-title">
+  <title id="oasa-domains-underwater-dark-title">OASA — Autonomous underwater vehicle (for dark backgrounds)</title>
+  <rect x="15" y="23" width="39" height="23" rx="11" fill="#E5E8ED" />
+  <path d="M16 28h31v13H16" fill="#8FA4CC" />
+  <path d="M15 34 7 25m8 9-8 9" stroke="#E5E8ED" stroke-width="4" />
+  <circle cx="27" cy="34" r="3" fill="#2F968A" />
+  <circle cx="39" cy="34" r="3" fill="#E3A32C" />
+  <path d="M32 23V15m8 8v-5" stroke="#E5E8ED" stroke-width="3" />
+  <path d="M28 46l-5 6m18-6 5 6" stroke="#E5E8ED" stroke-width="3" />
+</svg>

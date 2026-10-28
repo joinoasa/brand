@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="oasa-enablement-field-ops-dark-title">
+  <title id="oasa-enablement-field-ops-dark-title">OASA — Field operations and deployment (for dark backgrounds)</title>
+  <path d="m8 16 16-7 16 7 16-7v40l-16 7-16-7-16 7z" fill="#E5E8ED" />
+  <path d="M24 9v40m16-33v40" stroke="#2F968A" stroke-width="3" />
+  <path d="M32 8c-13 0-13 16 0 27 13-11 13-27 0-27z" fill="#E3A32C" />
+  <circle cx="32" cy="18" r="4" fill="#E5E8ED" />
+</svg>

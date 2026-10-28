@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="oasa-enablement-security-dark-title">
+  <title id="oasa-enablement-security-dark-title">OASA — Encryption and resilience (for dark backgrounds)</title>
+  <path d="M32 5 54 15v16c0 15-10 23-22 29C20 54 10 46 10 31V15z" fill="#E5E8ED" />
+  <rect x="23" y="29" width="18" height="18" rx="3" fill="#E3A32C" />
+  <path d="M27 29v-6a5 5 0 0 1 10 0v6" stroke="#0B253A" stroke-width="4" fill="none" />
+  <circle cx="32" cy="37" r="2" fill="#E5E8ED" />
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="oasa-enablement-field-ops-white-title">
+  <title id="oasa-enablement-field-ops-white-title">OASA — Field operations and deployment</title>
+  <defs>
+    <mask id="oasa-enablement-field-ops-white-cut" maskUnits="userSpaceOnUse" x="0" y="0" width="64" height="64">
+      <rect width="64" height="64" fill="#000" />
+      <path d="m8 16 16-7 16 7 16-7v40l-16 7-16-7-16 7z" fill="#fff" />
+      <path d="M24 9v40m16-33v40" stroke="#000" stroke-width="3" fill="#000" />
+      <path d="M32 8c-13 0-13 16 0 27 13-11 13-27 0-27z" fill="#000" />
+      <circle cx="32" cy="18" r="4" fill="#fff" />
+    </mask>
+  </defs>
+  <rect width="64" height="64" fill="#FFFFFF" mask="url(#oasa-enablement-field-ops-white-cut)" />
+</svg>

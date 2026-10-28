@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="oasa-infrastructure-mesh-radio-title">
+  <title id="oasa-infrastructure-mesh-radio-title">OASA — Mesh radio antenna</title>
+  <path d="m20 54 12-33 12 33zm6-16h12m-15 8h18" stroke="#0B253A" stroke-width="4" stroke-linejoin="round" fill="none" />
+  <circle cx="32" cy="20" r="5" fill="#0B253A" />
+  <path d="M18 12q-14 13 0 25m28-25q14 13 0 25M11 6q-20 20 0 38M53 6q20 20 0 38" stroke="#E3A32C" stroke-width="3" stroke-linecap="round" fill="none" />
+</svg>

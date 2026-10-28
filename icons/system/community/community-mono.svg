@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="oasa-community-community-mono-title">
+  <title id="oasa-community-community-mono-title">OASA — Open community collaboration</title>
+  <defs>
+    <mask id="oasa-community-community-mono-cut" maskUnits="userSpaceOnUse" x="0" y="0" width="64" height="64">
+      <rect width="64" height="64" fill="#000" />
+      <circle cx="32" cy="18" r="10" fill="#fff" />
+      <path d="M16 55V43q0-13 16-13t16 13v12z" fill="#fff" />
+      <circle cx="12" cy="29" r="7" fill="#fff" />
+      <path d="M3 55V45q0-11 14-11" fill="#fff" />
+      <circle cx="52" cy="29" r="7" fill="#fff" />
+      <path d="M61 55V45q0-11-14-11" fill="#fff" />
+    </mask>
+  </defs>
+  <rect width="64" height="64" fill="#0B253A" mask="url(#oasa-community-community-mono-cut)" />
+</svg>

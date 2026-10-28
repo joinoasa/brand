@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="oasa-domains-space-dark-title">
+  <title id="oasa-domains-space-dark-title">OASA — Satellite in orbit (for dark backgrounds)</title>
+  <rect x="25" y="23" width="14" height="20" rx="2" fill="#E5E8ED" />
+  <path d="m22 22-14-9-5 15 17 7zm20 0 14-9 5 15-17 7z" fill="#8FA4CC" />
+  <path d="M6 21l14 7M44 28l14-7" stroke="#2F968A" stroke-width="3" />
+  <circle cx="32" cy="32" r="4" fill="#E3A32C" />
+  <path d="M32 23V13m0 30v8" stroke="#E5E8ED" stroke-width="3" />
+</svg>

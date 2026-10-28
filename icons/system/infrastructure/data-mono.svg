@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="oasa-infrastructure-data-mono-title">
+  <title id="oasa-infrastructure-data-mono-title">OASA — Distributed data and cloud</title>
+  <defs>
+    <mask id="oasa-infrastructure-data-mono-cut" maskUnits="userSpaceOnUse" x="0" y="0" width="64" height="64">
+      <rect width="64" height="64" fill="#000" />
+      <path d="M15 32q-11-2-8-14 3-10 14-9 8-13 21-3 8-3 13 5 9 12-3 21z" fill="#fff" />
+      <rect x="14" y="31" width="36" height="25" rx="3" fill="#fff" />
+      <path d="M15 39h34M15 47h34" stroke="#fff" stroke-width="3" fill="#fff" />
+      <path d="M20 35h7m-7 8h7m-7 8h7" stroke="#000" stroke-width="3" fill="#000" />
+      <circle cx="43" cy="35" r="2" fill="#000" />
+    </mask>
+  </defs>
+  <rect width="64" height="64" fill="#0B253A" mask="url(#oasa-infrastructure-data-mono-cut)" />
+</svg>

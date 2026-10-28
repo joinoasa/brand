@@ -15,6 +15,7 @@ Logos, colors, icons, patches and art for the [Open Autonomous Systems Alliance]
 | [`logos/marks/`](logos/marks/) | Symbols that work without the name (icons, avatars) | Delta, Orbital and Network marks | Concept |
 | [`logos/seal/`](logos/seal/) | Round seal for formal use | OASA seal | Concept |
 | [`icons/domains/`](icons/domains/) | One icon per domain or tech tree branch | Space, Air, Land, Sea, Underwater | Concept |
+| [`icons/system/`](icons/system/) | Project icon system: SVG, full color, one color, white, dark | 18 icons in 4 families | Concept |
 | [`patches/`](patches/) | Mission-style patches for projects | Satellite, Flight, Robotics, Clean Oceans, Mesh | Concept |
 | [`banners/`](banners/) | Wide art for the website, Discord and social headers | All-domains hero | Concept |
 | [`tokens/`](tokens/) | Colors as code, for the website and apps | `colors.css`, `colors.json` | Concept |

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="oasa-community-knowledge-dark-title">
+  <title id="oasa-community-knowledge-dark-title">OASA — Open knowledge and documentation (for dark backgrounds)</title>
+  <path d="M7 13q14-4 25 5 11-9 25-5v38q-13-4-25 6-12-10-25-6z" fill="#E5E8ED" />
+  <path d="M32 18v39" stroke="#0B253A" stroke-width="3" />
+  <path d="M13 21q10-2 15 3m-15 7q10-2 15 3m8-10q5-5 15-3m-15 13q5-5 15-3" stroke="#2F968A" stroke-width="2" fill="none" />
+  <path d="M12 46q11-2 20 6 9-8 20-6" stroke="#E3A32C" stroke-width="2" fill="none" />
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="oasa-enablement-labs-title">
+  <title id="oasa-enablement-labs-title">OASA — Research testing laboratory</title>
+  <path d="M25 9h14M29 9v17L14 49q-4 8 5 8h26q9 0 5-8L35 26V9" stroke="#0B253A" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" fill="none" />
+  <path d="M22 43h20l7 11H15z" fill="#2F968A" />
+  <circle cx="32" cy="42" r="7" fill="#0B253A" />
+  <circle cx="32" cy="42" r="3" fill="#E3A32C" />
+</svg>
