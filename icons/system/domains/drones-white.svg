@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="oasa-domains-drones-white-title">
+  <title id="oasa-domains-drones-white-title">OASA — Multirotor autonomous drone</title>
+  <defs>
+    <mask id="oasa-domains-drones-white-cut" maskUnits="userSpaceOnUse" x="0" y="0" width="64" height="64">
+      <rect width="64" height="64" fill="#000" />
+      <path d="M16 23 27 32h10l11-9M16 41l11-9m21 9-11-9" stroke="#fff" stroke-width="5" stroke-linecap="round" fill="none" />
+      <rect x="24" y="26" width="16" height="15" rx="5" fill="#fff" />
+      <circle cx="32" cy="33" r="4" fill="#000" />
+      <path d="M8 19h16M40 19h16" stroke="#fff" stroke-width="4" stroke-linecap="round" fill="#fff" />
+      <rect x="12" y="20" width="7" height="9" rx="3" fill="#fff" />
+      <rect x="45" y="20" width="7" height="9" rx="3" fill="#fff" />
+      <path d="M27 41l-5 10m15-10 5 10" stroke="#fff" stroke-width="4" stroke-linecap="round" fill="#fff" />
+      <rect x="28" y="42" width="8" height="8" rx="2" fill="#fff" />
+    </mask>
+  </defs>
+  <rect width="64" height="64" fill="#FFFFFF" mask="url(#oasa-domains-drones-white-cut)" />
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="oasa-domains-space-mono-title">
+  <title id="oasa-domains-space-mono-title">OASA — Satellite in orbit</title>
+  <defs>
+    <mask id="oasa-domains-space-mono-cut" maskUnits="userSpaceOnUse" x="0" y="0" width="64" height="64">
+      <rect width="64" height="64" fill="#000" />
+      <rect x="25" y="23" width="14" height="20" rx="2" fill="#fff" />
+      <path d="m22 22-14-9-5 15 17 7zm20 0 14-9 5 15-17 7z" fill="#fff" />
+      <path d="M6 21l14 7M44 28l14-7" stroke="#000" stroke-width="3" fill="#000" />
+      <circle cx="32" cy="32" r="4" fill="#000" />
+      <path d="M32 23V13m0 30v8" stroke="#fff" stroke-width="3" fill="#fff" />
+    </mask>
+  </defs>
+  <rect width="64" height="64" fill="#0B253A" mask="url(#oasa-domains-space-mono-cut)" />
+</svg>

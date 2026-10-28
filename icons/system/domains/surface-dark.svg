@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="oasa-domains-surface-dark-title">
+  <title id="oasa-domains-surface-dark-title">OASA — Autonomous surface vessel (for dark backgrounds)</title>
+  <path d="M8 31h48l-7 17H19z" fill="#E5E8ED" />
+  <path d="M23 31l5-12h17l5 12" fill="#8FA4CC" />
+  <path d="M36 19V8" stroke="#E5E8ED" stroke-width="3" />
+  <rect x="29" y="22" width="11" height="5" fill="#2F968A" />
+  <path d="M13 34h38" stroke="#E3A32C" stroke-width="3" />
+  <path d="M8 52q8-6 16 0t16 0t16 0M8 59q8-6 16 0t16 0t16 0" stroke="#2F968A" stroke-width="3" fill="none" />
+</svg>

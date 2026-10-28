@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="oasa-domains-underwater-white-title">
+  <title id="oasa-domains-underwater-white-title">OASA — Autonomous underwater vehicle</title>
+  <defs>
+    <mask id="oasa-domains-underwater-white-cut" maskUnits="userSpaceOnUse" x="0" y="0" width="64" height="64">
+      <rect width="64" height="64" fill="#000" />
+      <rect x="15" y="23" width="39" height="23" rx="11" fill="#fff" />
+      <path d="M16 28h31v13H16" fill="#fff" />
+      <path d="M15 34 7 25m8 9-8 9" stroke="#fff" stroke-width="4" fill="#fff" />
+      <circle cx="27" cy="34" r="3" fill="#000" />
+      <circle cx="39" cy="34" r="3" fill="#000" />
+      <path d="M32 23V15m8 8v-5" stroke="#fff" stroke-width="3" fill="#fff" />
+      <path d="M28 46l-5 6m18-6 5 6" stroke="#fff" stroke-width="3" fill="#fff" />
+    </mask>
+  </defs>
+  <rect width="64" height="64" fill="#FFFFFF" mask="url(#oasa-domains-underwater-white-cut)" />
+</svg>

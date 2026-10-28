@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="oasa-enablement-build-dark-title">
+  <title id="oasa-enablement-build-dark-title">OASA — Hardware tools and fabrication (for dark backgrounds)</title>
+  <path d="m16 10 38 38-7 7L9 17z" fill="#E5E8ED" />
+  <path d="M40 12q10-7 14 2L43 25l-5-6z" fill="#8FA4CC" />
+  <path d="m12 48 32-34" stroke="#E5E8ED" stroke-width="8" stroke-linecap="round" />
+  <circle cx="14" cy="48" r="4" fill="#2F968A" />
+  <path d="M21 19 45 43" stroke="#E3A32C" stroke-width="2" />
+</svg>

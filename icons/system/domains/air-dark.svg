@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="oasa-domains-air-dark-title">
+  <title id="oasa-domains-air-dark-title">OASA — Fixed-wing autonomous aircraft (for dark backgrounds)</title>
+  <path d="M30 8h4l3 21 21 11v5L36 41l-2 12 8 4v3l-10-3-10 3v-3l8-4-2-12-22 4v-5l21-11z" fill="#E5E8ED" />
+  <path d="M11 40l17-8 1 5-18 7zm42 0-17-8-1 5 18 7z" fill="#8FA4CC" />
+  <path d="M31 12h2l1 18h-4z" fill="#2F968A" />
+  <path d="M9 39l12-6 2 3-14 7zm46 0-12-6-2 3 14 7z" fill="#E3A32C" />
+</svg>

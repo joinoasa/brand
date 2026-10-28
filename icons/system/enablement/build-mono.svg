@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="oasa-enablement-build-mono-title">
+  <title id="oasa-enablement-build-mono-title">OASA — Hardware tools and fabrication</title>
+  <defs>
+    <mask id="oasa-enablement-build-mono-cut" maskUnits="userSpaceOnUse" x="0" y="0" width="64" height="64">
+      <rect width="64" height="64" fill="#000" />
+      <path d="m16 10 38 38-7 7L9 17z" fill="#fff" />
+      <path d="M40 12q10-7 14 2L43 25l-5-6z" fill="#fff" />
+      <path d="m12 48 32-34" stroke="#fff" stroke-width="8" stroke-linecap="round" fill="#fff" />
+      <circle cx="14" cy="48" r="4" fill="#000" />
+      <path d="M21 19 45 43" stroke="#000" stroke-width="2" fill="#000" />
+    </mask>
+  </defs>
+  <rect width="64" height="64" fill="#0B253A" mask="url(#oasa-enablement-build-mono-cut)" />
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="oasa-infrastructure-data-title">
+  <title id="oasa-infrastructure-data-title">OASA — Distributed data and cloud</title>
+  <path d="M15 32q-11-2-8-14 3-10 14-9 8-13 21-3 8-3 13 5 9 12-3 21z" fill="#0B253A" />
+  <rect x="14" y="31" width="36" height="25" rx="3" fill="#253A66" />
+  <path d="M15 39h34M15 47h34" stroke="#0B253A" stroke-width="3" />
+  <path d="M20 35h7m-7 8h7m-7 8h7" stroke="#2F968A" stroke-width="3" />
+  <circle cx="43" cy="35" r="2" fill="#E3A32C" />
+</svg>

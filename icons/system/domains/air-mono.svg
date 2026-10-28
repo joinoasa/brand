@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="oasa-domains-air-mono-title">
+  <title id="oasa-domains-air-mono-title">OASA — Fixed-wing autonomous aircraft</title>
+  <defs>
+    <mask id="oasa-domains-air-mono-cut" maskUnits="userSpaceOnUse" x="0" y="0" width="64" height="64">
+      <rect width="64" height="64" fill="#000" />
+      <path d="M30 8h4l3 21 21 11v5L36 41l-2 12 8 4v3l-10-3-10 3v-3l8-4-2-12-22 4v-5l21-11z" fill="#fff" />
+      <path d="M11 40l17-8 1 5-18 7zm42 0-17-8-1 5 18 7z" fill="#fff" />
+      <path d="M31 12h2l1 18h-4z" fill="#000" />
+      <path d="M9 39l12-6 2 3-14 7zm46 0-12-6-2 3 14 7z" fill="#000" />
+    </mask>
+  </defs>
+  <rect width="64" height="64" fill="#0B253A" mask="url(#oasa-domains-air-mono-cut)" />
+</svg>
