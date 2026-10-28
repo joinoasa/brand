@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t">
+  <title id="t">OASA mark</title>
+  <defs>
+    <linearGradient id="hz" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#1F6FA3"/><stop offset="1" stop-color="#2BA6A6"/></linearGradient>
+    <clipPath id="in-upper"><circle cx="256.0" cy="543.0" r="301.4"/></clipPath>
+    <mask id="cut" maskUnits="userSpaceOnUse" x="0" y="0" width="512" height="512">
+      <rect width="512" height="512" fill="#fff"/>
+      <circle cx="256.0" cy="543.0" r="312.1" fill="#000"/>
+      <path d="M256.0 38.7 Q260.4 97.3 310.2 101.7 Q260.4 106.1 256.0 164.7 Q251.6 106.1 201.8 101.7 Q251.6 97.3 256.0 38.7 Z" fill="#000" stroke="#000" stroke-width="24" stroke-linejoin="round"/>
+    </mask>
+  </defs>
+  <!-- split peak -->
+  <g fill="#0B253A" mask="url(#cut)">
+    <polygon points="75.2,307.1 196.2,128.2 226.4,136.4 242.8,186.2 208.8,279.4"/>
+    <polygon points="436.8,307.1 315.8,128.2 285.6,136.4 269.2,186.2 303.2,279.4"/>
+  </g>
+  <!-- horizon: inside the upper circle, outside the lower one -->
+  <g clip-path="url(#in-upper)"><path fill="url(#hz)" fill-rule="evenodd" d="M-1 -1 H513 V513 H-1 Z M256.0 280.6 A467.9 467.9 0 1 0 256.01 280.6 Z"/></g>
+  <!-- guiding star -->
+  <path d="M256.0 38.7 Q260.4 97.3 310.2 101.7 Q260.4 106.1 256.0 164.7 Q251.6 106.1 201.8 101.7 Q251.6 97.3 256.0 38.7 Z" fill="#E3A32C"/>
+</svg>
