@@ -19,6 +19,7 @@ Logos, colors, icons, patches and art for the [Open Autonomous Systems Alliance]
 | [`patches/`](patches/) | Mission-style patches for projects | Satellite, Flight, Robotics, Clean Oceans, Mesh | Concept |
 | [`banners/`](banners/) | Wide art for the website, Discord and social headers | All-domains hero | Concept |
 | [`tokens/`](tokens/) | Colors as code, for the website and apps | `colors.css`, `colors.json` | Concept |
+| [`email/`](email/) | The standard email signature: preview, sources, how it's built (members use the generator at joinoasa.org/email-signature/) | Signature v2 | Concept |
 | [`documents/`](documents/) | Branded documents (Word, PDF) and their text | Core values one-pager, manifesto | Draft |
 
 ## Quick reference
