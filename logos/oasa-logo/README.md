@@ -21,6 +21,7 @@ SVGs are the source; `png/` has exports (logos 2000 px wide, marks 2000 px, squa
 | `…-navy.svg`, `…-white.svg`, `…-black.svg` | One color: print, engraving, embroidery, stickers |
 | `oasa-app-icon.svg` | Navy rounded square: app icons, Discord, social profiles |
 | `oasa-avatar.svg` | Full-bleed navy square: profile pictures (safe in a circle crop) |
+| `social/` | Ready to upload: `discord-server-icon.png` (512), `github-org-avatar.png` (500), `github-social-preview.png` (1280×640, repo link previews) |
 | `design-6-concept-sheet.png` | The concept it was redrawn from (AI-generated in ChatGPT) |
 | `source/` | The Python scripts that drew these files (reference; they need the Sora font instances) |
 
