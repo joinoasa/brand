@@ -1,0 +1,31 @@
+{
+ "poster": "posters/systems/st1-oasa-in-orbit.png",
+ "closeup": {
+  "cx": 0.27,
+  "cy": 0.42,
+  "w": 400
+ },
+ "hero": {
+  "cx": 0.6,
+  "cy": 0.3,
+  "w": 520
+ },
+ "hook": [
+  "Look up tonight…"
+ ],
+ "line2": [
+  "…one day, our mesh",
+  "*could reach orbit."
+ ],
+ "line3": [
+  "OASA in Orbit",
+  "*Open CubeSats. Encrypted links."
+ ],
+ "badge": "Concept art · OASA starshot ST-1",
+ "out": "oasa-short-st1-oasa-in-orbit.mp4",
+ "end": [
+  "We're designing it",
+  "in the open.",
+  "*Help build it."
+ ]
+}

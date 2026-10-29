@@ -18,6 +18,8 @@ Logos, colors, icons, patches and art for the [Open Autonomous Systems Alliance]
 | [`icons/domains/`](icons/domains/) | One icon per domain or tech tree branch | Space, Air, Land, Sea, Underwater | Concept |
 | [`icons/system/`](icons/system/) | Project icon system: SVG, full color, one color, white, dark | 18 icons in 4 families | Concept |
 | [`patches/`](patches/) | Mission-style patches for projects | Satellite, Flight, Robotics, Clean Oceans, Mesh | Concept |
+| [`posters/systems/`](posters/systems/) | Painted posters, one per system (blimp, wildfire, mesh, orbit, cleanup boat, reef robot); AI-generated | Set 1 (6 posters) | Concept |
+| [`tools/poster-video/`](tools/poster-video/) | Turns a poster into a 16-second vertical short | Script + 6 configs | Concept |
 | [`banners/`](banners/) | Wide art for the website, Discord and social headers | All-domains hero | Concept |
 | [`tokens/`](tokens/) | Colors as code, for the website and apps | `colors.css`, `colors.json` | Concept |
 | [`email/`](email/) | The standard email signature: preview, sources, how it's built (members use the generator at joinoasa.org/email-signature/) | Signature v2 | Concept |
