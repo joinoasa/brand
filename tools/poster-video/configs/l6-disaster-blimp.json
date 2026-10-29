@@ -1,0 +1,32 @@
+{
+ "poster": "posters/systems/l6-disaster-blimp.png",
+ "out": "oasa-short-l6-disaster-blimp.mp4",
+ "closeup": {
+  "cx": 0.23,
+  "cy": 0.47,
+  "w": 400
+ },
+ "hero": {
+  "cx": 0.56,
+  "cy": 0.33,
+  "w": 551
+ },
+ "hook": [
+  "When the storm",
+  "takes the towers down…"
+ ],
+ "line2": [
+  "…we bring the signal",
+  "*back from the sky."
+ ],
+ "line3": [
+  "L-6 Disaster Blimp",
+  "*Solar. Encrypted. Open."
+ ],
+ "end": [
+  "We're designing it",
+  "in the open.",
+  "*Help build it."
+ ],
+ "badge": "Concept art · OASA tech tree node L-6"
+}

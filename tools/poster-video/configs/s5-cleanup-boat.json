@@ -1,0 +1,32 @@
+{
+ "poster": "posters/systems/s5-cleanup-boat.png",
+ "closeup": {
+  "cx": 0.25,
+  "cy": 0.47,
+  "w": 400
+ },
+ "hero": {
+  "cx": 0.62,
+  "cy": 0.38,
+  "w": 551
+ },
+ "hook": [
+  "Our rivers and harbors",
+  "are filling with trash…"
+ ],
+ "line2": [
+  "…so we're designing",
+  "*boats that clean them up."
+ ],
+ "line3": [
+  "Solar cleanup boat",
+  "*Collect. Monitor. Protect."
+ ],
+ "badge": "Concept art · OASA tech tree node S-5",
+ "out": "oasa-short-s5-cleanup-boat.mp4",
+ "end": [
+  "We're designing it",
+  "in the open.",
+  "*Help build it."
+ ]
+}

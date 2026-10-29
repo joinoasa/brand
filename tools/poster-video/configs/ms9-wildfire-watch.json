@@ -1,0 +1,32 @@
+{
+ "poster": "posters/systems/ms9-wildfire-watch.png",
+ "closeup": {
+  "cx": 0.31,
+  "cy": 0.5,
+  "w": 400
+ },
+ "hero": {
+  "cx": 0.66,
+  "cy": 0.33,
+  "w": 551
+ },
+ "hook": [
+  "A thin wisp of smoke",
+  "on a far ridge…"
+ ],
+ "line2": [
+  "…spotted before",
+  "*it becomes a wildfire."
+ ],
+ "line3": [
+  "Wildfire Watch Network",
+  "*Spot it early. Guide the crews."
+ ],
+ "badge": "Concept art · OASA moonshot MS-9",
+ "out": "oasa-short-ms9-wildfire-watch.mp4",
+ "end": [
+  "We're designing it",
+  "in the open.",
+  "*Help build it."
+ ]
+}
