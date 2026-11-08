@@ -1,0 +1,32 @@
+{
+ "poster": "posters/systems/u7-reef-restoration.png",
+ "closeup": {
+  "cx": 0.74,
+  "cy": 0.2,
+  "w": 420
+ },
+ "hero": {
+  "cx": 0.4,
+  "cy": 0.4,
+  "w": 520
+ },
+ "hook": [
+  "Coral reefs are",
+  "fading out of sight…"
+ ],
+ "line2": [
+  "…so we're designing",
+  "*robots to heal them."
+ ],
+ "line3": [
+  "Reef restoration robot",
+  "*Survey. Replant. Track."
+ ],
+ "badge": "Concept art · OASA tech tree node U-7",
+ "out": "oasa-short-u7-reef-restoration.mp4",
+ "end": [
+  "We're designing it",
+  "in the open.",
+  "*Help build it."
+ ]
+}

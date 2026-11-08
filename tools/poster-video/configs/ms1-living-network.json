@@ -1,0 +1,32 @@
+{
+ "poster": "posters/systems/ms1-living-network.png",
+ "closeup": {
+  "cx": 0.27,
+  "cy": 0.46,
+  "w": 400
+ },
+ "hero": {
+  "cx": 0.55,
+  "cy": 0.33,
+  "w": 551
+ },
+ "hook": [
+  "The storm knocked",
+  "the network out…"
+ ],
+ "line2": [
+  "…but every rooftop",
+  "*keeps the town talking."
+ ],
+ "line3": [
+  "Living Network",
+  "*An encrypted mesh that heals itself."
+ ],
+ "badge": "Concept art · OASA moonshot MS-1",
+ "out": "oasa-short-ms1-living-network.mp4",
+ "end": [
+  "We're designing it",
+  "in the open.",
+  "*Help build it."
+ ]
+}
